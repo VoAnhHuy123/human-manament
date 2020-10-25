@@ -106,7 +106,7 @@
 		}
 		else{
 			$output['error'] = true;
-			$output['message'] = 'Employee ID not found1';
+			$output['message'] = 'Employee ID not found';
 		}
 		
 	}
